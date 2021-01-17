@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="html5" src="icons/html.svg" width="32">
+
 <!--
 **mukhindev/mukhindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
