@@ -1,30 +1,30 @@
 ### Hi there 👋
 
 <div style="display: flex; align-items: center">
-  I <img alt="html5" src="icons/heart.svg" width="16" style="margin: 0 6px 0;"> JavaScript
+  I [![](icons/heart.svg)](#) JavaScript
 </div>
 
-### Virtual Laptop stickers 👨🏻‍💻:  
+### Virtual laptop stickers 👨🏻‍💻:  
 
-<img alt="html5" src="icons/html.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="css3" src="icons/css.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="js" src="icons/js.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="typescript" src="icons/typescript.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="webpack" src="icons/webpack.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="react" src="icons/react.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="redux" src="icons/redux.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="vue" src="icons/vue.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="nuxt" src="icons/nuxt.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="svelte" src="icons/svelte.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="bem" src="icons/bem.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="bootstrap" src="icons/bootstrap.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="sass" src="icons/sass.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="pug" src="icons/pug.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="vscode" src="icons/vscode.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="git" src="icons/git.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="mongodb" src="icons/mongodb.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="nginx" src="icons/nginx.svg" width="32" style="margin: 0 16px 16px 0;">
-<img alt="ubuntu" src="icons/ubuntu.svg" width="32" style="margin: 0 16px 16px 0;">
+<img align="left" alt="html5" src="icons/html.svg" width="16">
+<img align="left" alt="css3" src="icons/css.svg" width="16">
+<img align="left" alt="js" src="icons/js.svg" width="16">
+<img align="left" alt="typescript" src="icons/typescript.svg" width="16">
+<img align="left" alt="webpack" src="icons/webpack.svg" width="16">
+<img align="left" alt="react" src="icons/react.svg" width="16">
+<img align="left" alt="redux" src="icons/redux.svg" width="16"">
+<img align="left" alt="vue" src="icons/vue.svg" width="16">
+<img align="left" alt="nuxt" src="icons/nuxt.svg" width="16">
+<img align="left" alt="svelte" src="icons/svelte.svg" width="16">
+<img align="left" alt="bem" src="icons/bem.svg" width="16">
+<img align="left" alt="bootstrap" src="icons/bootstrap.svg" width="16">
+<img align="left" alt="sass" src="icons/sass.svg" width="16">
+<img align="left" alt="pug" src="icons/pug.svg" width="16"">
+<img align="left" alt="vscode" src="icons/vscode.svg" width="16">
+<img align="left" alt="git" src="icons/git.svg" width="16">
+<img align="left" alt="mongodb" src="icons/mongodb.svg" width="16">
+<img align="left" alt="nginx" src="icons/nginx.svg" width="16">
+<img align="left" alt="ubuntu" src="icons/ubuntu.svg" width="16">
 
 
 
